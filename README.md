@@ -59,4 +59,6 @@ I am a highly-motivated IT Professional working in higher education.
 ### ✍️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pantomime Dev Diary 0 - Introduction](https://julianneadams.dev/posts/pantomime-dev-diary-0/)
+- [Hello World](https://julianneadams.dev/posts/hello/)
 <!-- BLOG-POST-LIST:END -->
