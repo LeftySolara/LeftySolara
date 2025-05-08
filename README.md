@@ -18,8 +18,8 @@ Here are some ideas to get you started:
       <img alt="Static Badge" src="https://img.shields.io/badge/Personal_Website-dd9383?style=for-the-badge"></a>
     <a href="https://linkedin.com/in/julianneadams">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://x.com/LeftySolara">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Twitter%2FX_-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black&color=black"></a>
+    <a href="https://bsky.app/profile/leftysolara.dev">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=bluesky&logoColor=%23ffffff&labelColor=%230285FF&color=%230285FF"></a>
      <a href="https://links.julianneadams.dev">
       <img alt="Static Badge" src="https://img.shields.io/badge/Contact_Me-dd9383?style=for-the-badge"></a>
   </div>
